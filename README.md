@@ -13,7 +13,7 @@ To create a strong password that provides greater security.
 * Zoom
 #### Screen shot
 ***
-![image](./friendly-parakeet/Develop/assets/images/Screenshot.png)
+![image](./assets/images/Screenshot.png)
 ##### Link
 ***
 click for deployed app
