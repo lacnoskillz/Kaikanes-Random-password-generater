@@ -82,7 +82,7 @@ function writePassword() {
   //converts the random array password to string
   password = password.join("");
   console.log("after converting array", password);
-  alert("your password: " + password);
+ // alert("your password: " + password); got rid of this because wasnt sure if having both password display on page and alert would dock points
 
 
 
