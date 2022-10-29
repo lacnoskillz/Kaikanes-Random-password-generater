@@ -1,6 +1,6 @@
 # Random-password-generater
 ***
-A site that makes a random password according to your specifications. such as including or not including lowercase, uppercase, numeric, and/or special characters.
+A site that makes a random password according to your specifications such as including or not including lowercase, uppercase, numeric, and/or special characters. Then displaying your password on the site. Click the generate password to start. then follow the prompts. (make sure to select atleast one type of charecter to include in your password.)
 ## Usage
 ***
 To create a strong password that provides greater security.
