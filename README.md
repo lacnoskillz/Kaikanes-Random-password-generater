@@ -17,4 +17,5 @@ To create a strong password that provides greater security.
 ##### Link
 ***
 click for deployed app
-[click me](https://lacnoskillz.github.io/Random-password-generater/)
+[click me](https://lacnoskillz.github.io/Kaikanes-Random-password-generater/)
+
